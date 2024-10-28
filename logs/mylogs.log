@@ -1,0 +1,9 @@
+20241027 16:37:15 INFO  [main] tests.AutomationScripts AutomationScripts.java122 - All user menu dropdown options are displayed correctly.
+20241027 22:35:11 INFO  [main] tests.AutomationScripts AutomationScripts.java149 - Switched to Developer Console window
+20241027 22:35:11 INFO  [main] tests.AutomationScripts AutomationScripts.java154 - Developer Console window is closed
+20241027 22:35:11 INFO  [main] tests.AutomationScripts AutomationScripts.java156 - Switched back to the main window
+20241027 22:36:16 INFO  [main] tests.AutomationScripts AutomationScripts.java124 - All user menu dropdown options are displayed correctly.
+20241028 01:44:07 INFO  [main] base.BaseTestTG BaseTestTG.java40 - --setupbeforemethod----
+20241028 01:44:20 INFO  [main] base.BaseTestTG BaseTestTG.java49 - ----teardownaftertestmethod--
+20241028 01:45:22 INFO  [main] base.BaseTestTG BaseTestTG.java40 - --setupbeforemethod----
+20241028 01:45:31 INFO  [main] base.BaseTestTG BaseTestTG.java49 - ----teardownaftertestmethod--

@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.automation.tests.AutomationScripts">
+      <class name="com.automation.tests.AutomationScript">
         <methods>
-          <include name="logoutFromSalesforce"/>
           <include name="tearDownAfterMethod"/>
+          <include name="testValidLogin"/>
           <include name="setUpBeforeMethod"/>
         </methods>
-      </class> <!-- com.automation.tests.AutomationScripts -->
+      </class> <!-- com.automation.tests.AutomationScript -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
